@@ -1,22 +1,41 @@
 # MCP Server Marketplace
 
+**Deployable marketplace site for MCP (Model Context Protocol) servers with directory, deploy script, and SEO**
+
+## Overview
+
 Deployable marketplace site for MCP (Model Context Protocol) servers with directory, deploy script, and SEO
 
-## Highlights
+**Category:** `software` / `marketplace`
+
+## Tech Stack
+
+- html
+- javascript
+- python
+
+## Key Features
 
 - Full deployable marketplace for AI tool servers
 - Auto-generated sitemap and SEO optimization
 - One-command deployment via deploy.sh
 
-## Tech
+## Timeline
 
-- **html**
-- **javascript**
-- **python**
+- **2025-03-01** to **2026-03-22** (high intensity)
 
-## Part Of
+## AI Tools Used
 
-[PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit) — Autonomous revenue operating system
+claude, cursor
+
+## Tags
+
+mcp, server, marketplace, printmaxx
 
 ---
-*[DEVPRINT](https://github.com/fnsmdehip/devprint) — 50+ projects built through AI-native development*
+
+## Part of Printmaxx (Meta Business System)
+
+This is a component of [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit), a 27GB autonomous revenue operating system.
+
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
